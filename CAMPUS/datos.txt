@@ -1,0 +1,9 @@
+Manual python:
+Temas Basicos: 4
+Temas intermedios:5
+Temas Avanzados:2
+
+Manual JavaScript:
+Temas Basicos:6
+Temas intermedios:3
+Temas Avanzados:3

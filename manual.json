@@ -1,0 +1,52 @@
+{
+    "manuales": {
+        "Python": {
+            "author": "Roy H Llamas",
+            "paginas": "65",
+            "temas": [
+                {
+                    "Titulo": "Algoritmos",
+                    "Clasificación": 1
+                },
+                {
+                    "Titulo": "Modularidad",
+                    "Clasificación": 2
+                },
+                {
+                    "Titulo": "Archivos JSON",
+                    "Clasificación": 3
+                },
+                {
+                    "Titulo": "estructura de datos",
+                    "Clasificación": 1
+                }
+            ]
+        },
+        "JavaScript": {
+            "author": "Vermen Ayala",
+            "paginas": "83",
+            "temas": [
+                {
+                    "Titulo": "Variables",
+                    "Clasificación": 1
+                },
+                {
+                    "Titulo": "Destructuración",
+                    "Clasificación": 2
+                },
+                {
+                    "Titulo": "Bases de Datos",
+                    "Clasificación": 3
+                }
+            ]
+        },
+        "CSS": {
+            "autor": "Angie",
+            "paginas": "50"
+        },
+        "JAVA": {
+            "autor": "Alan",
+            "paginas": "60"
+        }
+    }
+}
